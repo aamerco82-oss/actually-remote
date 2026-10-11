@@ -961,5 +961,21 @@
     "title": "Senior Partner Solutions Engineer, Technical Partnerships",
     "fit_score": 9,
     "alerted": true
+  },
+  "https://www.upwind.io/careers/co/tel-aviv/04.F41/technical-support-specialist/all": {
+    "status": "ai_failed",
+    "title": "Technical Support Specialist Tel Aviv · Full-time"
+  },
+  "https://www.upwind.io/careers/co/us-remote/24.36E/technical-support-specialist/all": {
+    "status": "ai_failed",
+    "title": "Technical Support Specialist US (Remote) · Full-time"
+  },
+  "https://jobs.lever.co/yuno/d8ba76db-1c82-4254-9119-70c2d4d41b7d": {
+    "status": "ai_failed",
+    "title": "Technical SupportColombia"
+  },
+  "https://jobs.lever.co/yuno/9a3b8655-edfe-4678-b6e1-3de940cf8270": {
+    "status": "ai_failed",
+    "title": "Technical Support Analyst - APACBeijing"
   }
 }
