@@ -985,5 +985,13 @@
   "https://job-boards.greenhouse.io/customerio/jobs/8246114": {
     "status": "ai_failed",
     "title": "Technical Support Engineer, CanadaAmericasRemoteApply"
+  },
+  "https://www.upwind.io/careers/co/tel-aviv/68.47E/technical-support-engineer/all": {
+    "status": "ai_failed",
+    "title": "Technical Support Engineer Tel Aviv · Full-time"
+  },
+  "https://jobs.lever.co/yuno/7e626ff0-7b47-4888-8d65-d92dcaf4f651": {
+    "status": "ai_failed",
+    "title": "Technical Support AnalystHyderabad"
   }
 }
